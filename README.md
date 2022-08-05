@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ravi Suri
 - 👀 I’m interested in: Any new software idea, rail planning, expert systems/logic, making software development simpler
 - 🌱 I’m currently learning: Everything, focused pretty heavily on Scala for the time being.  
-- 💞️ I’m looking to collaborate on: Some things
+- 💞️ I’m looking to collaborate on: Nothing in particular.  If you see any project related to yours or that you'd want to incorporate or expand on let me know I'd be glad to help.
 - 📫 How to reach me: rsuriprog@gmail.com
